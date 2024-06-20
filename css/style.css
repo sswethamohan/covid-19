@@ -1,0 +1,83 @@
+.covid-head h2{
+    text-align: center;
+    background-color: rgba(0, 0, 255, 0.348);
+    color: white;
+    padding: 10px;
+    margin: auto;
+    position: sticky;
+    top: 0;
+}
+.covid-head ul{
+    background-color: rgba(0, 0, 255, 0.17);
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+.covid-head ul li{
+    display:inline;
+    margin: 100px;
+    color: white;
+    font-size: 20px;
+   text-decoration: none;
+    
+}
+.covid-head ul li a{
+    text-decoration: none;
+}
+.video{
+    position: relative;
+
+}
+.covid-text{
+    background-color: whitesmoke;
+    position: absolute;
+    top: 15%;
+    width: 30%;
+    height: 35%;
+    border-radius: 7%;
+    margin-left: 50px;
+    padding: 20px;
+}
+.covid-btn{
+    top: 10%;
+    position: absolute;
+    margin-left: 13%;
+    /* border-radius:50%; */
+}
+.form1{
+    background-color:lightblue;
+    position: absolute;
+    top: 20%;
+    width: 30%;
+    height: 60%;
+    border-radius: 10%;
+    margin-left: 50px;
+    padding: 30px; 
+}
+.classbtn:hover{
+    background-color: brown;
+    color:white;
+}
+.view{
+    background-color: whitesmoke;
+    position: absolute;
+    top: 15%;
+    width: 30%;
+    height: 20%;
+    border-radius: 7%;
+    margin-left: 50px;
+    padding: 20px;
+}
+.view p{
+    position: absolute;
+    background-color: blue;
+    color: aliceblue;
+    top: 10%;
+    width: 40%;
+    height: 30%;
+    border-radius: 7%;
+    margin-left: 200%;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+}
